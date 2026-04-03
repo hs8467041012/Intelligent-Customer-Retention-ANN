@@ -1,4 +1,4 @@
-Intelligent Customer Retention System
+# Intelligent Customer Retention System
 Predicting Customer Churn Using Artificial Neural Networks (ANN)
 
 This repository contains an Intelligent Customer Retention System that uses Artificial Neural Networks (ANN) to predict whether a customer is likely to leave (churn) a business.
